@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fintree",
+    "name": "FinTree",
+    "logo": "/assets/images/fintree/logo.png",
+    "primaryColor": "#097969",
+    "secondaryColor": "#0FC2A7",
+    "accentColor": "#F4C542",
+    "gradient": "from-[#097969] via-[#0FC2A7] to-[#F4C542]",
+    "font": "font-sans",
+    "image": "/assets/images/fintree/loan2.png"
+  },
+  {
+    "id": "bankx",
+    "name": "BankX",
+    "logo": "/assets/images/bankx/logo.png",
+    "primaryColor": "#16a34a",
+    "gradient": "from-green-600 to-green-400",
+    "font": "font-serif",
+    "image": "/assets/images/bankx/loan2.webp"
+  }
+]
