@@ -1,5 +1,8 @@
 export async function generateStaticParams() {
-  const res = await fetch("https://your-api.com/roles");
-  const roles = await res.json();
-  return roles.map((r) => ({ id: r.id.toString() }));
+  // You can hardcode or fetch IDs from an API
+  return [
+    { id: "1" },
+    { id: "2" },
+    { id: "3" },
+  ];
 }
