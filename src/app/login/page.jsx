@@ -29,7 +29,7 @@ const params = useParams();
           className={`relative hidden md:flex items-center justify-center bg-gradient-to-br ${brand.gradient}`}
         >
           <Image
-            src="/workspaces/fintree/public/assets/images/fintree/logo.png"
+            src="assets/images/fintree/loan2.png"
             alt="Login illustration"
             width={500}
             height={400}
