@@ -40,7 +40,7 @@ const params = useParams();
         <div className="flex flex-col p-3 justify-center mt-12 md:mt-0 md:justify-center items-center w-full h-full bg-white">
           <div className="w-full max-w-md px-6 md:px-10 py-6 rounded-2xl shadow-xl border border-neutral-gray/20">
             <Image
-              src="/assets/images/fintree/logo.png"
+              src="assets/images/fintree/logo.png"
               alt={`${brand.name} Logo`}
               width={240}
               height={100}
