@@ -29,7 +29,7 @@ const params = useParams();
           className={`relative hidden md:flex items-center justify-center bg-gradient-to-br ${brand.gradient}`}
         >
           <Image
-            src={brand.image}
+            src="/assets/images/fintree/loan2.png"
             alt="Login illustration"
             width={500}
             height={400}
@@ -40,7 +40,7 @@ const params = useParams();
         <div className="flex flex-col p-3 justify-center mt-12 md:mt-0 md:justify-center items-center w-full h-full bg-white">
           <div className="w-full max-w-md px-6 md:px-10 py-6 rounded-2xl shadow-xl border border-neutral-gray/20">
             <Image
-              src={brand.logo}
+              src="/assets/images/fintree/logo.png"
               alt={`${brand.name} Logo`}
               width={240}
               height={100}
